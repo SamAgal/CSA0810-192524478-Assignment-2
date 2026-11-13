@@ -1,0 +1,9 @@
+# test cases format: units,has_ration_card,has_elderly_member
+90,False,False
+100,False,False
+101,True,False
+101,False,False
+200,True,False
+201,False,True
+201,False,False
+250,True,True
